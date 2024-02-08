@@ -1,0 +1,22 @@
+#hElementos{
+    color: blue;
+}
+
+.claseJs{
+    color: pink;
+    background-color: black;
+}
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card{
+    width: 300px;
+    height: 350px;
+    border: 1px solid black;
+}
