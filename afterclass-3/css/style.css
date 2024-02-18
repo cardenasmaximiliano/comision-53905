@@ -1,0 +1,9 @@
+.container{
+    width: 50rem;
+    margin: 1.25rem auto;
+    padding: 1.25rem;
+    background-color: lightgrey;
+    border-radius: .5rem;
+    
+}
+
